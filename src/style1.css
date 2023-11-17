@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+   
+    border: 2px solid;
+    background-color: rgb(34, 255, 0);
+    justify-content: center;
+    height: 500PX;
+    width: 1000PX;
+    margin-top: 200px;
+    margin-left: 200px;
+   
+}
+button{
+    margin: 10px;
+    margin-top: 20PX;
+}
